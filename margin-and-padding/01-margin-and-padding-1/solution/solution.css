@@ -4,8 +4,8 @@ body {
 }
 
 .one {
-  background: pink;
-  border: 3px solid blue;
+  background: rgb(135, 47, 61);
+  border: 5px solid blue;
   /* CHANGE ME */
   padding: 32px;
   margin: 12px;
